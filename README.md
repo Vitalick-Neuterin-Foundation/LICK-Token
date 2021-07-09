@@ -7,4 +7,5 @@ Vitalick Neuterin (LICK) is an NFT ecosystem meme coin that seeks to offer somet
 4. 3% of transactions fees go to Marketing.
 5. LICK Sellers will suffer from an additional 6% Neuterin.
 
-Contract Address on BSC:  https://bscscan.com/address/0x48c41c94782d593d8767d37034eda47e84b0ce44#writeContract
+Contract Address on BSC:  https://bscscan.com/address/0x48c41c94782d593d8767d37034eda47e84b0ce44#writeContract.  
+More detail: https://vitalickneuterin.com/
